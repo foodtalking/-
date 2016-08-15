@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Web
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "食話食說", "..\..\WebSites\食話食說\", "{2494584D-0628-4382-BCAE-425A392F37FA}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52635"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\食話食說\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52635\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52635"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\食話食說\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52635\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52635"
+		SlnRelativePath = "..\..\WebSites\食話食說\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2494584D-0628-4382-BCAE-425A392F37FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2494584D-0628-4382-BCAE-425A392F37FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
